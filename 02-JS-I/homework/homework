@@ -1,0 +1,8 @@
+variable: es una forma de almacenar algo que se puede utilizar mas tarde. En JavaScript una variable se define con su palabra clave 'var' y el nombre que le corresponda. ejemplo: var nombre = 'Santiago'.
+string: un string es una cadena de caracteres enlazados por comillas. ejemplo: 'Hola'.
+funcion: una funcion es importante en JavaScript porque son tipos particulares de objetos que son invocables. La palabra clave de una funcion es: Function 
+argumento: un argumento es lo que va entre ( ) de una funcion.
+return: el return lo que hace es retornarnos lo que nosotros le indiquemos, puede ser strings, numero, booleanos.
+if: el if se utiliza para condiciones, nosotros le ponemos una condicion y si no se cumple, no funcionara
+true: es un booleano que se utiliza como afirmacion de un resultado ejemplo: 1 == 1; true
+false: es un booleano que se utiliza como negacion de un resultado ejemplo 2<1; false
