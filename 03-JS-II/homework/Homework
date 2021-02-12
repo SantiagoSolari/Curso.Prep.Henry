@@ -1,0 +1,8 @@
+for : for es un bucle, que tiene una sintaxis unica pero es similar a la del IF. Su estructura es For que es la palabra clave, seguido de parentesis For ()
+seguido de los parentesis van las {} que es donde va el bloque de codigo. For () {bloque de codigo}. Dentro del parentesis se declara una variable
+que es la cantidad de veces que el bucle se repetira, despues una expresion condicional que se ejecutara hasta que sea falsa, y el tercero es el crecimiento de la variable
+
+
+&&: significa Y o AND, es un operador logico y se escribe && porque evalua ambas expresiones, si ambas son verdaderas devolvera true y si una es falsa devolvera false.
+||: significa O y OR, sin una expresion es verdadera, devolvera true. Si ambas son verdaderas devolver verdadero. Y si ambas son falsas, devolvera false.
+ !: significa NOT o NO, el operador NOT devolvera el valor booleano contrario de lo que este pasando
